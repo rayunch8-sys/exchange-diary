@@ -11,11 +11,6 @@
           "key": "outing",
           "label": "외출/운동",
           "icon": "🚶"
-        },
-        {
-          "key": "cleaning",
-          "label": "청소",
-          "icon": "🧹"
         }
       ]
     }
