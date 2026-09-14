@@ -6,6 +6,7 @@ import react from '@vitejs/plugin-react'
 // 예: 레포 이름이 'our-diary'라면 base: '/our-diary/'
 // (User/Organization Pages, 즉 <아이디>.github.io 레포라면 base: '/' 유지)
 export default defineConfig({
+  base: '/exchange-diary/',
   plugins: [react()],
   base: '/our-diary/',
 })
