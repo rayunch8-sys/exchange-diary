@@ -16,11 +16,6 @@
           "key": "cleaning",
           "label": "청소",
           "icon": "🧹"
-        },
-        {
-          "key": "delivery",
-          "label": "배달 주문",
-          "icon": "🛵"
         }
       ]
     }
